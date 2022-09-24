@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Michael Rooney
+   # michael-9000-7573-2022
 
    # Input:
    # p, principal amount
